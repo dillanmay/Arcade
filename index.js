@@ -1,6 +1,6 @@
 let buttonNew = document.querySelectorAll(".button");
 let restartBtn = document.querySelector(".restart");
-restartBtn.addEventListener("click", )
+// restartBtn.addEventListener("click", )
 
 const winConditions = [
   [0, 1, 2],
